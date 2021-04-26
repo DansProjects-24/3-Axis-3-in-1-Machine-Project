@@ -5,4 +5,4 @@ The aim is to develop a design which incorporates the key features necessary for
 
 See the Build Guide [link] for details how to build it and what components are needed.
 
-![test](/Images/FULL_ASSY_1.JPG)
+![test](/Images/Full_Assy_1.JPG)
