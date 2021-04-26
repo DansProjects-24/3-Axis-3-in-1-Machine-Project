@@ -7,5 +7,5 @@ See the [Build Guide](3-in-1_Machine_MK1_Build_Guide.pdf) for details on how to 
 
 ![Build Image](/Images/Full_Assy_1.JPG)
 ![Tool Heads](/Images/ToolHeads.JPG)
-![CAD_1](/Images/PANEL_TO_FRAME_INTEGRATION_5.JPG)
+![CAD_1](/Images/PANEL_TO_FRAME_INTEGRATION_4.JPG)
 
